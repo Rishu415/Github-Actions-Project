@@ -1,7 +1,6 @@
 name: CICD Pipeline 
 
-on:
-  Trigger: none
+
 jobs:
   compile:
     runs-on: self-hosted
